@@ -59,6 +59,7 @@ REST API и жизненный цикл заявок.
 > [Backlog](docs/backlog.md) - MVP и roadmap проекта
 
 9. Технологический стек
+
 Документация
 >Markdown
 >OpenAPI 3.0
@@ -80,3 +81,5 @@ Frontend
 
 Deployment
 > Docker
+> Docker Compose
+> Nginx
